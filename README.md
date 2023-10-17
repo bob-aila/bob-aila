@@ -1,6 +1,12 @@
 ### About Me 👋
 
-👋 Full Stack Developer | Data Analyst | IT Enthusiast 👋
+<p id="bio" class="animated-bio">
+  <span>👋 Full Stack Developer</span>
+  <span> | </span>
+  <span>Data Analyst</span>
+  <span> | </span>
+  <span>IT Enthusiast</span>
+</p>
 
 🌐 Full Stack Developer skilled in Angular, Laravel, and JavaScript for building user-friendly web applications. Proficient in SQL and NoSQL databases. 
 
@@ -25,3 +31,15 @@
 📫 Reach me at bobphilip93@gmail.com.
 
 ⚡ Fun fact: I'm a problem-solving enthusiast!
+.animated-bio {
+  animation: fade-in 3s linear infinite;
+}
+
+@keyframes fade-in {
+  0% { opacity: 0; }
+  25% { opacity: 1; }
+  50% { opacity: 0; }
+  75% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
