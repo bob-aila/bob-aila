@@ -1,13 +1,7 @@
 ### About Me 👋
 
-A:[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+Stack+Developer;Data+Analyst;IT+Enthusiast)](https://git.io/typing-svg)
-<p id="bio" class="animated-bio">
-  <span>👋 Full Stack Developer</span>
-  <span> | </span>
-  <span>Data Analyst</span>
-  <span> | </span>
-  <span>IT Enthusiast</span>
-</p>
+A:[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋 Web+Stack+Developer;Data+Analyst;IT+Enthusiast)](https://git.io/typing-svg)
+
  🌐 Full Stack Developer skilled in Angular, Laravel, and JavaScript for building user-friendly web applications. Proficient in SQL and NoSQL databases. 
 
 📊 Data Analyst experienced in data collection, analysis, and visualization using Python, SAS, PowerBI, Tableau, and SQL. 
