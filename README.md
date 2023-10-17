@@ -1,24 +1,6 @@
 ### About Me 👋
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.animated-bio {
-  animation: fade-in 3s linear infinite;
-}
-
-@keyframes fade-in {
-  0% { opacity: 0; }
-  25% { opacity: 1; }
-  50% { opacity: 0; }
-  75% { opacity: 1; }
-  100% { opacity: 0; }
-}
-</style>
-
-</head>
-<body>
+A:[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+Stack+Developer;Data+Analyst;IT+Enthusiast)](https://git.io/typing-svg)
 <p id="bio" class="animated-bio">
   <span>👋 Full Stack Developer</span>
   <span> | </span>
@@ -49,8 +31,7 @@
 📫 Reach me at bobphilip93@gmail.com.
 
 ⚡ Fun fact: I'm a problem-solving enthusiast! 
-</body>
-</html>
+
 
 
 
