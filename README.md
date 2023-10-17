@@ -31,10 +31,14 @@
 📫 Reach me at bobphilip93@gmail.com.
 
 ⚡ Fun fact: I'm a problem-solving enthusiast!
+<!DOCTYPE html>
+<html>
+<head>
+<style>
 .animated-bio {
   animation: fade-in 3s linear infinite;
 }
-<style>
+
   @keyframes fade-in {
   0% { opacity: 0; }
   25% { opacity: 1; }
@@ -43,3 +47,8 @@
   100% { opacity: 0; }
 }
 </style>
+</head>
+<body>
+
+
+
