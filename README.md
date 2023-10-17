@@ -1,5 +1,23 @@
 ### About Me 👋
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.animated-bio {
+  animation: fade-in 3s linear infinite;
+}
+
+@keyframes fade-in {
+  0% { opacity: 0; }
+  25% { opacity: 1; }
+  50% { opacity: 0; }
+  75% { opacity: 1; }
+  100% { opacity: 0; }
+}
+</style>
+</head>
+<body>
 <p id="bio" class="animated-bio">
   <span>👋 Full Stack Developer</span>
   <span> | </span>
@@ -7,8 +25,7 @@
   <span> | </span>
   <span>IT Enthusiast</span>
 </p>
-
-🌐 Full Stack Developer skilled in Angular, Laravel, and JavaScript for building user-friendly web applications. Proficient in SQL and NoSQL databases. 
+ 🌐 Full Stack Developer skilled in Angular, Laravel, and JavaScript for building user-friendly web applications. Proficient in SQL and NoSQL databases. 
 
 📊 Data Analyst experienced in data collection, analysis, and visualization using Python, SAS, PowerBI, Tableau, and SQL. 
 
@@ -19,7 +36,7 @@
 🔗 Let's connect on LinkedIn for more details: [LinkedIn](https://www.linkedin.com/in/bob-philip-54102a162/)
 
 🔗 Explore my coding projects on GitHub: [GitHub](https://github.com/bob-aila/)
--->
+
 🔭 Full Stack Developer | 📊 Data Analyst | 💻 IT Enthusiast
 
 🌱 Learning and coding every day to stay sharp!
@@ -30,25 +47,9 @@
 
 📫 Reach me at bobphilip93@gmail.com.
 
-⚡ Fun fact: I'm a problem-solving enthusiast!
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.animated-bio {
-  animation: fade-in 3s linear infinite;
-}
-
-  @keyframes fade-in {
-  0% { opacity: 0; }
-  25% { opacity: 1; }
-  50% { opacity: 0; }
-  75% { opacity: 1; }
-  100% { opacity: 0; }
-}
-</style>
-</head>
-<body>
+⚡ Fun fact: I'm a problem-solving enthusiast! 
+</body>
+</html>
 
 
 
