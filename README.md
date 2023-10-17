@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me 👋
 
 👋 Full Stack Developer | Data Analyst | IT Enthusiast 👋
 
