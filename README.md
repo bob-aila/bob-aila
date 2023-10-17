@@ -16,6 +16,7 @@
   100% { opacity: 0; }
 }
 </style>
+
 </head>
 <body>
 <p id="bio" class="animated-bio">
