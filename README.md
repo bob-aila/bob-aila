@@ -34,7 +34,7 @@
 .animated-bio {
   animation: fade-in 3s linear infinite;
 }
-<script>
+<style>
   @keyframes fade-in {
   0% { opacity: 0; }
   25% { opacity: 1; }
@@ -42,4 +42,4 @@
   75% { opacity: 1; }
   100% { opacity: 0; }
 }
-</script>
+</style>
