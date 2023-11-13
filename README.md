@@ -1,6 +1,6 @@
 ### About Me 👋
 
-A[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋Full+Stack+Developer;Data+Analyst;IT+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋Full+Stack+Developer;Data+Analyst;IT+Enthusiast)](https://git.io/typing-svg)
 
 🌐 Full Stack Developer skilled in Angular, Laravel, and JavaScript for building user-friendly web applications. Proficient in SQL and NoSQL databases. 
 
@@ -18,13 +18,13 @@ A[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋Full+Stack+De
 
 🌱 Learning and coding every day to stay sharp!
 
-👯 Open to collaborations and interesting projects.
+👯 Open to projects,collaborations and work(remote and on site)projects.
 
-💬 Ask me about web development and data analysis.
+💬 Ask me about Front End development and data analytics.
 
 📫 Reach me at bobphilip93@gmail.com.
 
-⚡ Fun fact: I'm a problem-solving enthusiast! 
+⚡ Fun fact: Sometime I do think time is just an illusion sold by watch manufacturers.
 
 
 
